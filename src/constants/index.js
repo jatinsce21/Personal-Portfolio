@@ -83,10 +83,6 @@ const technologies = [
     icon: reactjs,
   },
   {
-    name: "Redux Toolkit",
-    icon: redux,
-  },
-  {
     name: "Tailwind CSS",
     icon: tailwind,
   },
@@ -146,7 +142,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Jatin proved me wrong.",
+      "Jatin is a creative problem-solver, able to come up with innovative solutions to challenges.",
     name: "Indranil Roy",
     designation: "Founder",
     company: "Clikin Tech",
@@ -155,7 +151,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Jatin proved me wrong.",
+      "Jatin is a highly skilled and experienced full-stack web developer who has a proven track record of delivering high-quality websites on time and within budget.",
     name: "Parag Patel",
     designation: "CEO",
     company: "Shri Om InfoTech",
